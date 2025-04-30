@@ -37,3 +37,14 @@ xCyberHell/
 └── Resources/
     ├── Books/
     └── CheatSheets/
+```
+---
+## Philosophy Behind xCyberHell
+This is not just a repository — it's a war journal. Inspired by myth, driven by curiosity, guided by ethics. So, always foucus yourself because
+"When you will find your self, you will realise the ultimate truth of universe -- *nothing is always equal to everything*" — **blackEthics**, quoted from `/dev/hell` 
+
+---
+## 👤 Maintained by
+
+# 🧑‍💻 blackEthics
+Cybersecurity Explorer | Ethical Hacker | CTF Player
